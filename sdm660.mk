@@ -57,6 +57,7 @@ PRODUCT_PACKAGES += \
     libhdmiedid \
     libhfp \
     libsndmonitor \
+    libspkrprot \
     libqcompostprocbundle \
     libqcomvisualizer \
     libqcomvoiceprocessing \
