@@ -1,0 +1,1 @@
+allow hal_drm_widevine media_rw_data_file:file { read };
