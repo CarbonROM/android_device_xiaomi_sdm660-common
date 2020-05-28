@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 3B3CE39DC981143E2E29B65A795F73D22FB93FAE 1590652189 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_xiaomi_sdm660-common\nnonce 1590652189-5CB6D1D9ADD20D099065D6ECDD870820E9F21503\n\n0000000000000000000000000000000000000000 b507eba34fe70c4cc3edbd4ea27db2d26c11fb3e refs/for/cr-8.0\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEOzzjncmBFD4uKbZaeV9z0i+5P64FAl7PbR4ACgkQeV9z0i+5\nP64PSAgAlmZbgyOLWQGOumwnYLsxKvX3dvgj9aL9YxfBnrNOnUf+G8vZgN5WoyNk\nUCkcpNggLRaKKkicidJEdkGxpK9ijuSphHdrKMsslXFHKBUl1Q79DdgBLrXP21yS\nMld/AHwRSMP7c3zv0P4cSnDdBed+MOxGmdta4cwM3yX+oBK9DPnFBg62isRi3Srp\n1kqBbXjedkzUd7RjFoQ5h72CaXBxkl6I+WY4BcxMPTnsfP6jyqhjJqPKRoQHM61V\nz1FrqX5qm4jSvfBXLhxf/YpI/jwa5uimEiBVVXoEVUzrWJA65Kk6DwPMnrOslqgI\nX9tcuRSUOQ2XtTX3HScuwMO6UyBjig\u003d\u003d\n\u003dnn5y\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
